@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="31632" started-at="2020-04-12T00:29:27 IST" finished-at="2020-04-12T00:29:58 IST">
+    <groups>
+    </groups>
+    <test name="way2automation test chrome" duration-ms="31632" started-at="2020-04-12T00:29:27 IST" finished-at="2020-04-12T00:29:58 IST">
+      <class name="com.MyTests.LoginTest">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginTest@21213b92]" name="setUpTest" is-config="true" duration-ms="18471" started-at="2020-04-12T00:29:27 IST" finished-at="2020-04-12T00:29:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:0, instance:com.MyTests.LoginTest@21213b92]" name="verifyLoginPageTitleTest" duration-ms="157" started-at="2020-04-12T00:29:45 IST" finished-at="2020-04-12T00:29:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.MyTests.LoginTest@21213b92]" name="finish" is-config="true" duration-ms="902" started-at="2020-04-12T00:29:46 IST" finished-at="2020-04-12T00:29:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginTest@21213b92]" name="setUpTest" is-config="true" duration-ms="9367" started-at="2020-04-12T00:29:46 IST" finished-at="2020-04-12T00:29:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="doLoginTest()[pri:1, instance:com.MyTests.LoginTest@21213b92]" name="doLoginTest" duration-ms="1774" started-at="2020-04-12T00:29:56 IST" finished-at="2020-04-12T00:29:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.MyTests.LoginTest@21213b92]" name="finish" is-config="true" duration-ms="890" started-at="2020-04-12T00:29:58 IST" finished-at="2020-04-12T00:29:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.MyTests.LoginTest -->
+    </test> <!-- way2automation test chrome -->
+  </suite> <!-- Suite1 -->
+</testng-results>
